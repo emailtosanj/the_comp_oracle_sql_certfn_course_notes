@@ -1,0 +1,2 @@
+# the_comp_oracle_sql_certfn_course_notes
+the_comp_oracle_sql_certfn_course_notes by imtiaz ahmed - udemy
