@@ -41,10 +41,11 @@
     -- group by is used to aggregate the rows/records based on a common value of a column
     -- having is used to filter the grouped records based on a condition.
 
-    SELECT department_id, SUM(salary) AS total_sal
-    FROM employees
-    GROUP BY department_id
-    HAVING SUM(salary) = MAX(SUM(salary));
+    -- this is to be checked in oracle
+    --SELECT department_id, SUM(salary) AS total_sal
+    --FROM employees
+    --GROUP BY department_id
+    --HAVING SUM(salary) = MAX(SUM(salary));
 --===
 
 --  JOIN's - DO's & DONTs
